@@ -1,0 +1,2 @@
+# thanu94.github.io
+Notre projet consistait à créer un deuxième site web pour la Maison de la Culture du Japon où l'on peut trouver des présentations d'animés, des rencontres avec des créateurs et des réalisateurs, des activités, des spectacles et des expositions thématiques. Nous étions en équipe de quatre. Lors de ce projet, nous avons pu expérimenter le HTML ainsi que le CSS. Nous avions également eu une première expérience à la gestion de projet.
